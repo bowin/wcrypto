@@ -1,4 +1,4 @@
-## 微信开发平台 message encrypt & decrpt for  golang
+## 微信开发平台 message encrypt & decrpt 
 
 ### Install
 ```bash
