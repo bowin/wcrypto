@@ -2,7 +2,7 @@
 
 ### Install
 ```bash
-go get gthub.com/bowin/wcrypto
+go get github.com/bowin/wcrypto
 ``` 
 
 ### Usage
