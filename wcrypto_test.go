@@ -1,4 +1,4 @@
-package eglass
+package wcrypto
 
 import (
 	"testing"

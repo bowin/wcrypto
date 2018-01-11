@@ -1,4 +1,4 @@
-package eglass
+package wcrypto
 import (
 	b64 "encoding/base64"
 	"math/rand"
