@@ -8,7 +8,7 @@ go get github.com/bowin/wcrypto
 ### Usage
 ```go
  import "github.com/bowin/wcrypto"
- wcp := New("your token", "your aes key", "your open appid")
+ wcp := wcrypto.New("your token", "your aes key", "your open appid")
  // encrypt
  wcp.Encrypt("your messge")
  // decrypt
